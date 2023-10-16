@@ -1,6 +1,8 @@
 this is my first file for project
+it contains simple c program
 #include<stdio.h>
 void main()
 {
   printf("hello world.....");
+
 }
